@@ -1,6 +1,6 @@
 # AOS_ASSIGN_3
 
-Build a group based file sharing system where users can share, download files from the group they belong to. Download can be parallel with multiple pieces from multiple peers.
+A group based file sharing system where users can share, download files from the group they belong to. Download can be parallel with multiple pieces from multiple peers.
 
 Which can perform following operations.
 \
